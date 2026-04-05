@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(255, 239, 12);
+}
+/* O seletor de tipo é utilizado para selecionar elementos HTML com base em seu nome de tag. Por exemplo, se quisermos selecionar todos os elementos <h1> em um documento, podemos usar o seletor "h1". */
+h1{
+    text-align: center;
+    color: blue;
+}
+/* O seletor de ID é utilizado para selecionar um elemento específico que possui um identificador único. Ele é definido utilizando o símbolo de cerquilha (#) seguido do nome do ID. Por exemplo, se quisermos selecionar um elemento com o ID "paragrafo", podemos usar o seletor "#paragrafo". */
+#paragrafo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+/* O seletor de classe é utilizado para selecionar elementos que possuem uma determinada classe. Ele é definido utilizando um ponto (.) seguido do nome da classe. Por exemplo, se quisermos selecionar todos os elementos que possuem a classe "classe", podemos usar o seletor ".classe". */
+.classe{
+    border: 2px solid black;
+    color: green;
+}
