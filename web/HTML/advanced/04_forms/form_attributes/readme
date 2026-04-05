@@ -1,0 +1,41 @@
+# Formulários HTML - Guia de Uso
+
+## Requisitos
+
+Para executar este projeto, você precisará ter o **XAMPP** instalado em seu computador.
+
+## Instalação do XAMPP
+
+1. Baixe o XAMPP no site oficial: [https://www.apachefriends.org/](https://www.apachefriends.org/)
+2. Execute o instalador e siga as instruções
+3. Instale na pasta padrão ou em um local de sua escolha
+
+## Como Usar
+
+1. **Inicie o XAMPP Control Panel**
+   - Abra o XAMPP e clique em "Start" ao lado de "Apache" e "MySQL"
+
+2. **Coloque os arquivos do projeto**
+   - Copie a pasta `form_attributes` para: `C:\xampp\htdocs\`
+
+3. **Acesse no navegador**
+   - Abra seu navegador (Chrome, Firefox, Edge, etc.)
+   - Digite: `http://localhost/form_01/`
+
+4. **Teste o formulário**
+   - Interaja com os elementos do formulário HTML
+   - Verifique o funcionamento dos campos
+
+## Estrutura do Projeto
+
+- `index.html` - Arquivo principal com os formulários
+- `style.css` - Estilos do projeto (se existente)
+- `readme` - Este arquivo
+
+## Notas Importantes
+
+- Certifique-se de que Apache está rodando no XAMPP
+- Se encontrar erros de porta ocupada, mude a porta padrão do Apache
+- Use o Firefox ou Chrome para melhor compatibilidade
+
+Aproveite seus estudos! 🚀
