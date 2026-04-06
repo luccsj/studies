@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    background-color: lightgray;
+}
+div {
+    margin-top: 20px;
+}
+h1 {
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+p {
+    height: auto;
+    width: 200px;
+    padding: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aquamarine;
+    font-size: 30px;
+    -webkit-text-stroke: 1px white;
+}

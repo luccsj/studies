@@ -1,0 +1,16 @@
+p.one{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+p.two{
+    border: 2px solid red;
+    border-radius: 20px;
+}
+p.three{
+    border: 2px solid blue;
+    border-radius: 30px;
+}
+p.four{
+    border: 2px solid green;
+    border-radius: 40px;
+}

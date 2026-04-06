@@ -1,0 +1,17 @@
+body {
+    display: block;
+    margin-left: 30%;
+}
+p {
+    max-height: 200px;
+    min-height: 50px;
+    max-width: 200px;
+    min-width: 100px;
+    margin-left: 8%;
+    background-color: black;
+    color: white;
+    padding: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    -webkit-text-stroke: 1px white;
+}

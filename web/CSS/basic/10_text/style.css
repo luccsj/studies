@@ -1,0 +1,28 @@
+p.one {
+    color: blue;
+}
+p.two {
+    font-size: 20px;
+}
+p.three {
+    font-family: Arial, sans-serif;
+}
+p.four {
+    text-align: center;
+}
+p.five {
+    text-decoration: underline;
+}
+p.six {
+    text-transform: uppercase;
+}
+p.seven {
+    text-transform: lowercase;
+}
+p.eight {
+    text-transform: capitalize;
+}
+p.nine {
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}

@@ -1,0 +1,33 @@
+p.one{
+    border-style: dotted;
+}
+p.two{
+    border-style: dashed;
+}
+p.three{
+    border-style: solid;
+}
+p.four{
+    border-style: double;
+}
+p.five{
+    border-style: groove;
+}
+p.six{
+    border-style: ridge;
+}
+p.seven{
+    border-style: inset;
+}
+p.eight{
+    border-style: outset;
+}
+p.nine{
+    border-style: none;
+}
+p.ten{
+    border-style: hidden;
+}
+p.eleven{
+    border-style: dotted dashed solid double;
+}

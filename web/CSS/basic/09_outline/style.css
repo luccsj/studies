@@ -1,0 +1,24 @@
+p.one {
+    outline: 2px solid black;
+}
+p.two {
+    outline: 2px dashed red;
+}
+p.three {
+    outline: 2px dotted blue;
+}
+p.four {
+    outline: 2px double green;
+}
+p.five {
+    outline: 2px groove orange;
+}
+p.six {
+    outline: 2px ridge purple;
+}
+p.seven {
+    outline: 2px inset cyan;
+}
+p.eight {
+    outline: 2px outset magenta;
+}

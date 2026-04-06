@@ -1,0 +1,9 @@
+espacamento-letras {
+    letter-spacing: 5px;
+}
+espacamento-palavras {
+    word-spacing: 10px;
+}
+altura-linha {
+    line-height: 2;
+}

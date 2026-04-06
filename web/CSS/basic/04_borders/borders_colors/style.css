@@ -1,0 +1,36 @@
+p.one{
+    border-style: solid;
+    border-color: red;
+}
+p.two{
+    border-style: groove;
+    border-color: blue;
+}
+p.three{
+    border-style: dashed;
+    border-color: green;
+}
+p.four{
+    border-style: dotted;
+    border-color: yellow;
+}
+p.five{
+    border-style: double;
+    border-color: cyan;
+}
+p.six{
+    border-style: inset;
+    border-color: magenta;
+}
+p.seven{
+    border-style: ridge;
+    border-color: black;
+}
+p.eight{
+    border-style: outset;
+    border-color: white;
+}
+p.nine{
+    border-style: solid;
+    border-color: orange;
+}
