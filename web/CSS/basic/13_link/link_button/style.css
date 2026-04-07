@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #14d83f;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.btn:hover {
+    background-color: #1a99d4;
+}

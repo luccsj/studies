@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+ul {
+    background-color: aqua;
+    list-style-type: square;
+    padding-left: 20px;
+}
+li {
+    background-color: #f0f0f0;
+    margin-bottom: 10px;
+    padding: 10px;
+    color: #df0a0a;
+}
