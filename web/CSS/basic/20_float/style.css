@@ -1,0 +1,13 @@
+div.box {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background-color: lightblue;
+  margin: 10px;
+}
+div.clear {
+  clear: both;
+  background-color: lightcoral;
+  padding: 10px;
+  margin: 10px;
+}

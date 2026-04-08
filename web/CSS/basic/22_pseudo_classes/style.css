@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+}
+p {
+    color: red;
+}
+p:hover {
+    color: green;
+}
+p:first-child {
+    font-weight: bold;
+}
+p:last-child {
+    font-style: italic;
+}
+p:nth-child(2) {
+    text-decoration: underline;
+}
+p:nth-child(3) {
+    text-transform: uppercase;
+}
+p:nth-child(4) {
+    text-transform: lowercase;
+}
+p:nth-child(5) {
+    text-transform: capitalize;
+}

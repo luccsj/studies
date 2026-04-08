@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>
+            Alternar Visibilidade com display: none
+        </title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <p class="flip" onclick="myFunction()">Clique em mim para alternar a visibilidade</p>
+        <div id="panel">
+            <p>Este é um texto que será ocultado ou exibido quando o parágrafo acima for clicado.</p>
+        </div>
+        <script>
+            function myFunction() {
+            document.getElementById("panel").style.display = "block";
+            }
+        </script>
+    </body>
+</html>

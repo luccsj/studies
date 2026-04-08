@@ -1,0 +1,12 @@
+h1::first-letter {
+    color: blue;
+    font-size: 2em;
+}
+p::before {
+    content: "Antes do parágrafo. ";
+    color: red;
+}
+p::after {
+    content: " Depois do parágrafo.";
+    color: green;
+}

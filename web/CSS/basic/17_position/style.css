@@ -1,0 +1,28 @@
+div.relative {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+}
+div.absolute {
+  position: absolute;
+  top: 50px;
+  left: 350px;
+  width: 100px;
+  height: 100px;
+  background-color: lightcoral;
+}
+div.fixed {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  width: 150px;
+  height: 50px;
+  background-color: lightgreen;
+}
+div.sticky {
+  position: sticky;
+  top: 0;
+  background-color: lightyellow;
+  padding: 10px;
+}
