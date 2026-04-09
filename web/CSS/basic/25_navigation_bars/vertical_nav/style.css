@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    width: 200px;
+    background-color: #333;
+    height: 100vh;
+    position: fixed;
+}
+.navbar a {
+    display: block;
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+}
+.navbar a:hover {
+    background-color: #575757;
+}
+.content {
+    margin-left: 200px;
+    padding: 20px;
+}
+main {
+    position: fixed;
+    left: 15%;
+    padding: 20px;
+}
