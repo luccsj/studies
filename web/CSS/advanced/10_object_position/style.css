@@ -1,0 +1,16 @@
+.object-position-container {
+  width: 800px;
+  height: auto;
+  border: 1px solid #000000;
+  margin-bottom: 20px;
+  display: grid;
+  place-items: center;
+  position: relative;
+  left: 19%;
+}
+.object-position-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* Keep the image contained within the container */
+  object-position: top left; /* Change to 'top right', 'bottom left', 'bottom right', 'center', etc. to see different effects */
+}
