@@ -1,4 +1,5 @@
 <html>
+<head>
     <title> Types Syntax</title>
     <script src="script.js"></script>
 </head>
@@ -13,30 +14,5 @@
         <li id="symbol">Symbol</li>
         <li id="bigint">BigInt</li>
     </ul>
-    <script>
-        const types = document.querySelectorAll('.types li');
-        types.forEach(type => {
-            type.addEventListener('click', () => {
-
-                if (type.id === 'string') {
-                    alert('String é um tipo de dado que representa texto. Ex: "Olá, mundo!"');
-                } else if (type.id === 'number') {
-                    alert('Number é um tipo de dado que representa números. Ex: 42, 3.14');
-                } else if (type.id === 'boolean') {
-                    alert('Boolean é um tipo de dado que representa verdadeiro ou falso. Ex: true, false');
-                } else if (type.id === 'null') {
-                    alert('Null é um tipo de dado que representa a ausência de valor. Ex: null');
-                } else if (type.id === 'undefined') {
-                    alert('Undefined é um tipo de dado que representa uma variável não definida. Ex: undefined');
-                } else if (type.id === 'symbol') {
-                    alert('Symbol é um tipo de dado que representa um identificador único. Ex: Symbol("id")');
-                } else if (type.id === 'bigint') {
-                    alert('BigInt é um tipo de dado que representa números inteiros grandes. Ex: ParseInt("9007199254740991") + 1n');
-                }
-            });
-        });
-
-
-    </script>
 </body>
 </html>
